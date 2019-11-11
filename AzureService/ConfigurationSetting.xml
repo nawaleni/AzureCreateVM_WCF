@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configurations>
+  <ProjectNameResourceGroupName></ProjectNameResourceGroupName>
+  <ProjectNameVirtualNetwork></ProjectNameVirtualNetwork>
+  <ProjectNameOSDisksnapshotName></ProjectNameOSDisksnapshotName>
+  <ProjectNameDataDisk1SnapshotName></ProjectNameDataDisk1SnapshotName>
+  <ProjectNameDataDisk2SnapshotName></ProjectNameDataDisk2SnapshotName>
+  <ProjectNameSubnetMask></ProjectNameSubnetMask>
+  <ProjectNameBaseUriVM></ProjectNameBaseUriVM>
+  <ProjectNameBaseUriDisks></ProjectNameBaseUriDisks>
+  <ProjectNameNetworkInterface></ProjectNameNetworkInterface> 
+</Configurations>
